@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "quyetnc",
+      "password": "123123",
+      "role": "USER",
+      "name": "Quyet",
+      "department": "Development",
+      "email": "johndoe@example.com",
+      "phone": "123-456-7890",
+      "first_name": "Quyet",
+      "middle_name": "Canh",
+      "last_name": "Nguyen",
+      "country": "Vietnam",
+      "city": "Hanoi",
+      "address": "123 Main St",
+      "birthday": "15/08/1990",
+      "organization": "TechCorp",
+      "zip_code": "100000"
+    },
+    {
+      "id": "2",
+      "username": "quyetnc2",
+      "password": "123123",
+      "role": "OFFICER",
+      "name": "Jane Doe",
+      "department": "HR",
+      "email": "janedoe@example.com",
+      "phone": "987-654-3210",
+      "first_name": "Jane",
+      "middle_name": "Canh",
+      "last_name": "Doe",
+      "country": "USA",
+      "city": "New York",
+      "address": "456 Elm St",
+      "birthday": "22/10/1985",
+      "organization": "BizCorp",
+      "zip_code": "10001"
+    }
+  ]
+}
